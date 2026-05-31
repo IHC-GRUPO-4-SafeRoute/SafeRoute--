@@ -5,5 +5,11 @@
     "team": "Equipo",
     "testimonials": "Testimonios",
     "login": "Login"
+  },
+  "characteristics": {
+    "heroTitle": "Tu seguridad es nuestra preocupación",
+    "heroSubtitle": "Usa las nuevas funciones de SafeRoute para mejorar tus trayectos nocturnos.",
+    "cardTitle": "Convierte trayectos peligrosos en rutas más seguras",
+    "cardDescription": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real."
   }
 }
