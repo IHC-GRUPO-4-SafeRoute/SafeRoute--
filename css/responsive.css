@@ -87,3 +87,127 @@
     font-size: 15px;
   }
 }
+
+@media (max-width: 1200px) {
+  .characteristics-section {
+    padding-top: 190px;
+  }
+
+  .characteristics-section__palm {
+    width: 650px;
+    left: -120px;
+    top: 130px;
+  }
+
+  .characteristics-section__title {
+    font-size: 40px;
+  }
+
+  .characteristics-card {
+    width: 90%;
+    padding: 64px 80px;
+    gap: 48px;
+  }
+
+  .characteristics-card__title {
+    font-size: 30px;
+  }
+
+  .characteristics-card__description {
+    font-size: 23px;
+  }
+}
+
+@media (max-width: 900px) {
+  .characteristics-section {
+    min-height: auto;
+    padding: 150px 20px 70px;
+  }
+
+  .characteristics-section__palm {
+    width: 560px;
+    max-width: 90vw;
+    left: -190px;
+    top: 90px;
+  }
+
+  .characteristics-section__header {
+    margin-bottom: 70px;
+  }
+
+  .characteristics-section__title {
+    font-size: 32px;
+  }
+
+  .characteristics-section__line {
+    width: 75%;
+    margin: 15px auto;
+  }
+
+  .characteristics-section__subtitle {
+    font-size: 16px;
+  }
+
+  .characteristics-card {
+    width: 92%;
+    min-height: auto;
+    padding: 46px 32px;
+    border-radius: 46px;
+    grid-template-columns: 1fr;
+    gap: 36px;
+    text-align: center;
+  }
+
+  .characteristics-card__content {
+    max-width: 100%;
+  }
+
+  .characteristics-card__title {
+    max-width: 100%;
+    margin-bottom: 28px;
+    font-size: 25px;
+  }
+
+  .characteristics-card__description {
+    max-width: 100%;
+    font-size: 18px;
+  }
+
+  .characteristics-card__image {
+    width: min(360px, 100%);
+  }
+}
+
+@media (max-width: 480px) {
+  .characteristics-section {
+    padding: 135px 16px 56px;
+  }
+
+  .characteristics-section__palm {
+    width: 440px;
+    left: -180px;
+    top: 80px;
+  }
+
+  .characteristics-section__title {
+    font-size: 28px;
+  }
+
+  .characteristics-section__subtitle {
+    font-size: 15px;
+  }
+
+  .characteristics-card {
+    width: 94%;
+    padding: 38px 24px;
+    border-radius: 36px;
+  }
+
+  .characteristics-card__title {
+    font-size: 22px;
+  }
+
+  .characteristics-card__description {
+    font-size: 16px;
+  }
+}
