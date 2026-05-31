@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>SafeRoute</title>
+
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="css/navbar.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="navbar__container">
+
+      <a href="#home" class="navbar__logo" aria-label="SafeRoute home">
+        <img src="assets/images/logo.png" alt="SafeRoute logo" />
+      </a>
+
+      <div class="navbar__content" id="navbar-content">
+        <nav class="navbar__menu" aria-label="Landing navigation">
+          <a href="#features" class="navbar__link" data-i18n="navbar.features">
+            Características
+          </a>
+
+          <a href="#how-it-works" class="navbar__link" data-i18n="navbar.howItWorks">
+            Cómo funciona
+          </a>
+
+          <a href="#team" class="navbar__link" data-i18n="navbar.team">
+            Equipo
+          </a>
+
+          <a href="#testimonials" class="navbar__link" data-i18n="navbar.testimonials">
+            Testimonios
+          </a>
+        </nav>
+
+        <div class="navbar__actions">
+          <a href="#login" class="navbar__login" data-i18n="navbar.login">
+            Login
+          </a>
+
+          <div class="navbar__language">
+            <button
+              class="navbar__language-button"
+              id="language-button"
+              type="button"
+              aria-label="Cambiar idioma"
+            >
+              <img
+                src="assets/images/peru.png"
+                alt="Bandera de Perú"
+                class="navbar__flag"
+                id="selected-flag"
+              />
+
+              <span class="navbar__language-code" id="selected-language">
+                ES
+              </span>
+
+              <img
+                src="assets/icons/unfold_down.png"
+                alt=""
+                class="navbar__arrow-icon"
+              />
+            </button>
+
+            <div class="navbar__language-menu" id="language-menu">
+              <button
+                class="navbar__language-option"
+                type="button"
+                data-lang="es"
+                data-code="ES"
+                data-flag="assets/images/peru.png"
+                data-alt="Bandera de Perú"
+              >
+                <img
+                  src="assets/images/peru.png"
+                  alt="Bandera de Perú"
+                  class="navbar__option-flag"
+                />
+                <span>Español</span>
+              </button>
+
+              <button
+                class="navbar__language-option"
+                type="button"
+                data-lang="en"
+                data-code="EN"
+                data-flag="assets/images/eeuu.png"
+                data-alt="Bandera de Estados Unidos"
+              >
+                <img
+                  src="assets/images/eeuu.png"
+                  alt="Bandera de Estados Unidos"
+                  class="navbar__option-flag"
+                />
+                <span>English</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button
+        class="navbar__toggle"
+        id="navbar-toggle"
+        type="button"
+        aria-label="Abrir menú"
+      >
+        ☰
+      </button>
+
+    </div>
+  </header>
+
+  <main class="landing-placeholder" id="home">
+    <section id="features"></section>
+    <section id="how-it-works"></section>
+    <section id="team"></section>
+    <section id="testimonials"></section>
+  </main>
+
+  <script src="js/navbar.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
