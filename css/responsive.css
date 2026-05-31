@@ -29,7 +29,7 @@
   }
 
   .navbar__toggle {
-    display: block;
+    display: flex;
     z-index: 3;
   }
 
