@@ -11,5 +11,13 @@
     "heroSubtitle": "Usa las nuevas funciones de SafeRoute para mejorar tus trayectos nocturnos.",
     "cardTitle": "Convierte trayectos peligrosos en rutas más seguras",
     "cardDescription": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real."
+  },
+  "smartFeatures": {
+    "card1": "Detección de<br />ruta más segura",
+    "card2": "Alertas en<br />tiempo real",
+    "card3": "Nodos de<br />soporte seguro",
+    "card4": "Modo Compañero<br />Digital",
+    "mainTitle": "Funciones inteligentes para una navegación segura",
+    "description": "Protección con inteligencia artificial para tus viajes nocturnos."
   }
 }

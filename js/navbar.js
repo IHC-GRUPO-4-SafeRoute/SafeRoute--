@@ -21,7 +21,7 @@ const applyTranslations = (translations) => {
     const translatedText = getNestedValue(translations, translationKey);
 
     if (translatedText) {
-      element.textContent = translatedText;
+      element.innerHTML = translatedText;
     }
   });
 };
