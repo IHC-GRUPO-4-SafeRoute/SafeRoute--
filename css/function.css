@@ -1,0 +1,101 @@
+.smart-features {
+  position: relative;
+  z-index: 1;
+  width: min(1500px, 88%);
+  margin: 110px auto 0;
+}
+
+/* Hoja decorativa */
+.smart-features__palm {
+    position: absolute;
+    width: 760px;
+    max-width: 58vw;
+    height: auto;
+
+    right: -55px;   /* antes left */
+    bottom: -150px; /* antes top */
+
+    opacity: 1;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.smart-features__content {
+  position: relative;
+  z-index: 1;
+  min-height: 510px;
+  padding: 72px 120px;
+  background-color: #25005c;
+  border-radius: 80px;
+  display: grid;
+  grid-template-columns: 0.95fr 1.05fr;
+  align-items: center;
+  gap: 70px;
+}
+
+.smart-features__items {
+  width: 100%;
+  max-width: 520px;
+  display: grid;
+  grid-template-columns: repeat(2, 170px);
+  gap: 36px;
+}
+
+.smart-features__item {
+  min-height: 190px;
+  padding: 28px 24px;
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.smart-features__item--white {
+  background-color: #ffffff;
+  color: #111111;
+}
+
+.smart-features__item--blue {
+  background-color: #8fb6e8;
+  color: #111111;
+}
+
+.smart-features__icon {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  margin-bottom: 14px;
+}
+
+.smart-features__number {
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.smart-features__item-title {
+  margin: 10px 0 0;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 1.15;
+}
+
+.smart-features__text {
+  max-width: 520px;
+  color: #ffffff;
+}
+
+.smart-features__title {
+  margin: 0 0 24px;
+  font-size: 44px;
+  font-weight: 800;
+  line-height: 1.14;
+}
+
+.smart-features__description {
+  max-width: 480px;
+  margin: 0;
+  font-size: 22px;
+  line-height: 1.35;
+  color: #dce8ff;
+}
