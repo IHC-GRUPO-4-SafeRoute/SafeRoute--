@@ -10,7 +10,7 @@
     "heroTitle": "Tu seguridad es nuestra preocupación",
     "heroSubtitle": "Usa las nuevas funciones de SafeRoute para mejorar tus trayectos nocturnos.",
     "cardTitle": "Convierte trayectos peligrosos en rutas más seguras",
-    "cardDescription": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real."
+    "cardDescripcion": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real."
   },
   "smartFeatures": {
     "card1": "Detección de<br />ruta más segura",
@@ -19,5 +19,26 @@
     "card4": "Modo Compañero<br />Digital",
     "mainTitle": "Funciones inteligentes para una navegación segura",
     "description": "Protección con inteligencia artificial para tus viajes nocturnos."
-  }
+  },
+  "howItWorks": {
+  "title": "Convierte trayectos peligrosos en rutas más seguras",
+  "description": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real.",
+  "button": "Comience",
+  
+  "companionTitle": "Modo de acompañante digital para trayectos más seguros",
+
+  "companionDescription": "Comparte tu recorrido en tiempo real con una persona de confianza y recibe seguimiento durante todo el trayecto.",
+
+  "badge1": "Comparte tu ubicación en vivo",
+  "badge2": "Métricas de entrenamiento",
+
+  "badge3": "Alertas automáticas",
+  "badge4": "Seguimiento activo",
+
+  "badge5": "Rutas iluminadas",
+  "badge6": "Alertas automáticas",
+
+  "badge7": "Confirmación de llegada",
+  "badge8": "Seguimiento activo"
+}
 }
