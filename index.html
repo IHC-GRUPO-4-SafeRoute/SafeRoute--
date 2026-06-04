@@ -10,7 +10,8 @@
   <link rel="stylesheet" href="css/navbar.css" />
   <link rel="stylesheet" href="css/characteristics.css" />
   <link rel="stylesheet" href="css/function.css" />
-   <link rel="stylesheet" href="css/responsive.css" />
+  <link rel="stylesheet" href="css/how-it-works.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
 </head>
 <body>
 
@@ -112,13 +113,13 @@
         id="navbar-toggle"
         type="button"
         aria-label="Abrir menú"
-         >
+      >
         <img
           src="assets/icons/menu.png"
           alt=""
           class="navbar__menu-icon"
         />
-       </button>
+      </button>
 
     </div>
   </header>
@@ -248,7 +249,118 @@
   </div>
 </div>
     </section>
-    <section id="how-it-works"></section>
+    <section id="how-it-works" class="how-it-works-section">
+      
+      <img
+        src="assets/images/right_palm_tree.png"
+        alt=""
+        class="how-it-works-section__palm"
+      />
+
+      <div class="video-card">
+
+        <div class="video-card__content">
+
+          <h2 class="video-card__title">
+            Convierte trayectos<br /> peligrosos en rutas más<br /> seguras
+          </h2>
+
+          <p class="video-card__description">
+            SafeRoute analiza el riesgo, la iluminación, la densidad
+            social y los informes verificados para sugerir
+            rutas urbanas más seguras en tiempo real.
+          </p>
+
+          <button class="video-card__button">
+            Comience <span class="video-card__arrow">→</span>
+          </button>
+
+        </div>
+
+        <div class="video-card__preview">
+
+          <video
+            class="video-card__video"
+            autoplay
+            muted
+            loop
+            playsinline
+          >
+            <source
+              src="assets/videos/video_routepreview.mp4"
+              type="video/mp4"
+            />
+
+            Tu navegador no soporta videos.
+
+          </video>
+
+        </div>
+
+      </div>
+      <div class="companion-card">
+        <div class="companion-card__content">
+          <h2 class="companion-card__title">
+            Modo de acompañante digital<br />para trayectos más seguros
+          </h2>
+          
+          <p class="companion-card__description">
+            Comparte tu recorrido en tiempo real con una persona de confianza 
+            y recibe seguimiento durante todo el trayecto.
+          </p>
+
+          <div class="companion-card__badges-grid">
+
+          <div class="companion-badge-row">
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Comparte tu ubicación en vivo</span>
+            </div>
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Métricas de entrenamiento</span>
+            </div>
+          </div>
+
+          <div class="companion-badge-row">
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Alertas automáticas</span>
+            </div>
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Seguimiento activo</span>
+            </div>
+          </div>
+
+          <div class="companion-badge-row">
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Rutas iluminadas</span>
+            </div>
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Alertas automáticas</span>
+            </div>
+          </div>
+
+          <div class="companion-badge-row">
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Confirmación de llegada</span>
+            </div>
+            <div class="companion-badge">
+              <span class="companion-badge__check">✓</span>
+              <span class="companion-badge__text">Seguimiento activo</span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+       <div class="companion-card__mockup">
+          <img src="assets/images/iMockup - iPhone 15 Pro Max.png" alt="Mockup SafeRoute" />
+        </div>
+    </section>
     <section id="team"></section>
     <section id="testimonials"></section>
   </main>
