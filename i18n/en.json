@@ -19,5 +19,20 @@
     "card4": "Digital Companion<br />Mode",
     "mainTitle": "Smart features for safe navigation",
     "description": "Artificial intelligence protection for your night trips."
-  }
+  },
+  "howItWorks": {
+  "title": "Turn dangerous trips into safer routes",
+  "description": "SafeRoute analyzes risk, lighting, social density and verified reports to suggest safer urban routes in real time.",
+  "button": "Start",
+  "companionTitle": "Digital companion mode for safer trips",
+  "companionDescription": "Share your trip in real time with a trusted person and receive monitoring throughout the journey.",
+  "badge1": "Share your live location",
+  "badge2": "Training metrics",
+  "badge3": "Automatic alerts",
+  "badge4": "Active tracking",
+  "badge5": "Illuminated routes",
+  "badge6": "Automatic alerts",
+  "badge7": "Arrival confirmation",
+  "badge8": "Active tracking"
+}
 }
