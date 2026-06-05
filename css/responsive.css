@@ -211,7 +211,6 @@
     font-size: 16px;
   }
 }
-/* how it works */
 
 @media (max-width:1200px){
 .how-it-works-section{
@@ -381,293 +380,163 @@ object-fit:contain;
 background:none;
 }
 }
-/* ==========================================
-   COMPANION CARD RESPONSIVE
-========================================== */
-
-
-/* ---------- TABLET GRANDE ---------- */
 
 @media (max-width:1200px){
-
 .companion-card{
-
 width:90%;
-
 padding:60px 70px;
-
 gap:50px;
-
 min-height:auto;
-
 }
 
 .companion-card__title{
-
 font-size:34px;
-
 }
 
 .companion-card__description{
-
 font-size:18px;
-
 }
 
 .companion-card__mockup img{
-
 max-width:280px;
-
 }
-
 }
-
-
-
-/* ---------- TABLET ---------- */
 
 @media (max-width:900px){
-
 .companion-card{
-
 width:92%;
-
 padding:50px 36px;
-
 grid-template-columns:1fr;
-
 gap:48px;
-
 border-radius:42px;
-
 min-height:auto;
-
 }
 
 .companion-card__content{
-
 max-width:100%;
-
 margin-top:0;
-
 display:flex;
-
 flex-direction:column;
-
 align-items:center;
-
 text-align:center;
-
 }
 
 .companion-card__title{
-
 font-size:30px;
-
 line-height:1.2;
-
 margin-bottom:22px;
-
 }
 
 .companion-card__description{
-
 font-size:16px;
-
 margin-bottom:32px;
-
 max-width:100%;
-
 }
 
 .companion-card__badges-grid{
-
 display:flex;
-
 flex-direction:column;
-
 align-items:center;
-
 gap:14px;
-
 }
 
 .companion-badge-row{
-
 display:flex;
-
 gap:12px;
-
 justify-content:center;
-
 flex-wrap:wrap;
-
 }
 
 .companion-badge{
-
 width:260px;
-
 padding:14px 18px;
-
 min-height:48px;
-
 justify-content:flex-start;
 
 }
-
 .companion-card__mockup{
-
 justify-content:center;
-
 }
-
 .companion-card__mockup img{
-
 max-width:260px;
-
 }
-
 }
-
-
-
-/* ---------- CELULAR ---------- */
 
 @media (max-width:480px){
-
 .companion-card{
-
 width:94%;
-
 padding:36px 24px;
-
 border-radius:36px;
-
 grid-template-columns:1fr;
-
 gap:30px;
-
 min-height:auto;
 
 }
 
 .companion-card__content{
-
 margin-top:0;
-
 display:flex;
-
 flex-direction:column;
-
 align-items:center;
-
 text-align:center;
-
 }
 
 .companion-card__title{
-
 font-size:24px;
-
 line-height:1.15;
-
 margin-bottom:20px;
-
 }
 
 .companion-card__description{
-
 font-size:14px;
-
 line-height:1.5;
-
 margin-bottom:26px;
-
 max-width:100%;
-
 }
 
 .companion-card__badges-grid{
-
 display:flex;
-
 flex-direction:column;
-
 align-items:center;
-
 gap:12px;
-
 width:100%;
-
 }
-
-/* FILAS */
 
 .companion-badge-row{
-
 display:flex;
-
 flex-direction:column;
-
 align-items:center;
-
 gap:12px;
-
 width:100%;
-
 }
 
-/* TODAS MISMO ANCHO */
-
 .companion-badge{
-
 width:280px;
-
 padding:12px 20px;
-
 min-height:46px;
-
 justify-content:flex-start;
-
 box-sizing:border-box;
-
 }
 
 .companion-badge__check{
-
 width:20px;
-
 height:20px;
-
 font-size:11px;
-
 }
 
 .companion-badge__text{
-
 font-size:14px;
-
 font-weight:600;
-
 }
 
 .companion-card__mockup{
-
 display:flex;
-
 justify-content:center;
-
 }
 
 .companion-card__mockup img{
-
 width:100%;
-
 max-width:220px;
-
 height:auto;
-
 }
-
 }
