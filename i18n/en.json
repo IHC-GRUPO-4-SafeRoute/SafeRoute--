@@ -34,5 +34,27 @@
   "badge6": "Automatic alerts",
   "badge7": "Arrival confirmation",
   "badge8": "Active tracking"
+},
+
+  "aboutus": {
+    "title": "About Us",
+
+    "jenniferName": "Jennifer Yuselis Nieves Vega",
+    "jenniferDescription": "I am currently pursuing a degree in Software Engineering at UPC with an interest in becoming a future backend developer. I have knowledge of Java, C++, Vue and also have knowledge in Power BI and Excel.",
+
+    "luciaName": "Lucia Alisson Zorrilla Hernández",
+    "luciaDescription": "I am Lucia Zorrilla, I am 20 years old and I am currently pursuing a degree in Systems Engineering at UPC. I am a responsible, proactive person with a great interest in technology. In addition, I have knowledge in programming and handling languages such as Python and C++.",
+
+    "aldoName": "Flores Arrieta Aldo Fabricio",
+    "aldoDescription": "I am Aldo Flores, I am 19 years old and I am currently pursuing a degree in Systems Engineering. I consider myself a proactive person, who always wants to learn and set new challenges.",
+
+    "miguelName": "Bulón Burga Miguel Ángel",
+    "miguelDescription": "I am Miguel Sullon, Systems Engineering student. I am responsible, I like punctuality in all aspects of my life and I have intermediate English proficiency.",
+
+    "giulianoName": "Tinoco Ganoza Giuliano Sebastián",
+    "giulianoDescription": "I am Giuliano Tinoco, I am 19 years old, Systems Engineering student. I am organized, with great motivation to learn, take on challenges and grow both personally and academically.",
+
+    "ricardoName": "Vargas Arraiza Ricardo Andrés",
+    "ricardoDescription": "I am Ricardo Vargas, I am 19 years old and I study Information Systems Engineering at UPC. I have knowledge in Python and C++."
 }
 }
