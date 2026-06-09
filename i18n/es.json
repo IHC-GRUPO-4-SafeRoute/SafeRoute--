@@ -56,5 +56,24 @@
 
     "ricardoName": "Vargas Arraiza Ricardo Andrés",
     "ricardoDescription": "Soy Ricardo Vargas, tengo 19 años y estudio Ingeniería de Sistemas de Información en la UPC. Tengo conocimientos en Python y C++."
+  },
+  "testimonials": {
+  "title": "La confianza de los viajeros nocturnos.",
+  "subtitle": "Historias reales de nuestra comunidad",
+  "card1": {
+    "name": "Sarah M.",
+    "text": "\"Antes me daba pánico volver caminando a casa después de las clases nocturnas. SafeRoute me mostró calles bien iluminadas que ni siquiera sabía que existían. Ahora me siento mucho más segura.\"",
+    "role": "Estudiante universitaria"
+  },
+  "card2": {
+    "name": "James R.",
+    "text": "\"El modo de entrenamiento lo cambia todo. Puedo planificar mis carreras nocturnas por zonas pobladas y bien iluminadas. Mi familia también se siente más tranquila.\"",
+    "role": "Corredor nocturno"
+  },
+  "card3": {
+    "name": "Maria T.",
+    "text": "\"Trabajar en turnos de noche implica largos desplazamientos. El modo acompañante permite que mi pareja siga mi ruta de vuelta a casa. Nos da tranquilidad a los dos.\"",
+    "role": "Trabajadora empresarial"
   }
+}
 }

@@ -691,3 +691,163 @@ line-height:1.5;
 }
 }
 }
+
+@media (max-width: 1200px) {
+  .testimonials {
+    padding: 56px 24px 40px;
+  }
+
+  .testimonials__container {
+    width: 90%;
+  }
+
+  .testimonials__title {
+    font-size: 38px;
+  }
+
+  .testimonials__subtitle {
+    font-size: 20px;
+  }
+
+  .testimonials__cards {
+    gap: 28px;
+  }
+
+  .testimonial-card {
+    padding: 26px 28px 24px;
+    border-radius: 30px;
+  }
+
+  .testimonial-card__text {
+    font-size: 14px;
+  }
+
+  .testimonial-card__stars img {
+    width: 17px;
+    height: 17px;
+  }
+}
+
+@media (max-width: 900px) {
+  .testimonials {
+    padding: 54px 18px 60px;
+  }
+
+  .testimonials__container {
+    width: 92%;
+  }
+
+  .testimonials__header {
+    margin-bottom: 40px;
+  }
+
+  .testimonials__title {
+    font-size: 32px;
+    line-height: 1.2;
+    margin-bottom: 18px;
+  }
+
+  .testimonials__subtitle {
+    font-size: 18px;
+  }
+
+  .testimonials__cards {
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .testimonial-card {
+    width: 100%;
+    max-width: 520px;
+    min-height: auto;
+    padding: 28px 32px;
+    border-radius: 30px;
+  }
+
+  .testimonial-card__top {
+    margin-bottom: 24px;
+  }
+
+  .testimonial-card__text {
+    font-size: 15px;
+    line-height: 1.35;
+  }
+
+  .testimonial-card__role {
+    margin-top: 12px;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .testimonials {
+    padding: 46px 12px 52px;
+  }
+
+  .testimonials__container {
+    width: 94%;
+  }
+
+  .testimonials__header {
+    margin-bottom: 32px;
+  }
+
+  .testimonials__title {
+    font-size: 27px;
+    line-height: 1.2;
+    margin-bottom: 14px;
+  }
+
+  .testimonials__subtitle {
+    font-size: 15px;
+  }
+
+  .testimonials__cards {
+    gap: 20px;
+  }
+
+  .testimonial-card {
+    width: 100%;
+    padding: 24px 22px;
+    border-radius: 26px;
+  }
+
+  .testimonial-card__top {
+    align-items: flex-start;
+    gap: 14px;
+    margin-bottom: 22px;
+  }
+
+  .testimonial-card__user {
+    gap: 10px;
+  }
+
+  .testimonial-card__photo {
+    width: 34px;
+    height: 34px;
+  }
+
+  .testimonial-card__name {
+    font-size: 14px;
+  }
+
+  .testimonial-card__stars {
+    gap: 4px;
+  }
+
+  .testimonial-card__stars img {
+    width: 15px;
+    height: 15px;
+  }
+
+  .testimonial-card__text {
+    font-size: 14px;
+    line-height: 1.35;
+  }
+
+  .testimonial-card__role {
+    font-size: 11px;
+    margin-top: 12px;
+  }
+}
