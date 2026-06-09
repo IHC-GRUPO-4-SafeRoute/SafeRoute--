@@ -56,5 +56,25 @@
 
     "ricardoName": "Vargas Arraiza Ricardo Andrés",
     "ricardoDescription": "I am Ricardo Vargas, I am 19 years old and I study Information Systems Engineering at UPC. I have knowledge in Python and C++."
+},
+
+"testimonials": {
+  "title": "The trust of nighttime travelers.",
+  "subtitle": "Real stories from our community",
+  "card1": {
+    "name": "Sarah M.",
+    "text": "\"I used to panic when walking home after night classes. SafeRoute showed me well-lit streets I didn’t even know existed. Now I feel much safer.\"",
+    "role": "University student"
+  },
+  "card2": {
+    "name": "James R.",
+    "text": "\"The training mode changes everything. I can plan my night runs through populated and well-lit areas. My family also feels more at ease.\"",
+    "role": "Night runner"
+  },
+  "card3": {
+    "name": "Maria T.",
+    "text": "\"Working night shifts means long commutes. Companion mode lets my partner follow my route back home. It gives both of us peace of mind.\"",
+    "role": "Business worker"
+  }
 }
 }
