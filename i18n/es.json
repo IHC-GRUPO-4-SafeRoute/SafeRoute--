@@ -34,5 +34,27 @@
   "badge6": "Alertas automáticas",
   "badge7": "Confirmación de llegada",
   "badge8": "Seguimiento activo"
-}
+},
+
+  "aboutus": {
+    "title": "Nosotros",
+
+    "jenniferName": "Jennifer Yamilet Riveros Vera",
+    "jenniferDescription": "Estoy cursando la carrera de Ingeniería de Software en la UPC con interés en ser una futura desarrolladora backend. Conocimientos Java, C++, Vue y también tengo conocimientos en Power BI y Excel.",
+
+    "luciaName": "Lucia Alisson Zorrilla Hernández",
+    "luciaDescription": "Soy Lucia Zorrilla, tengo 20 años y estoy cursando la carrera de Ingeniería de Sistemas en la UPC. Soy una persona responsable, proactiva y con gran interés por la tecnología. Además, cuento con conocimientos en programación y manejo de lenguajes como Python y C++.",
+
+    "aldoName": "Flores Arrieta Aldo Fabrizio",
+    "aldoDescription": "Soy Aldo Flores, tengo 19 años y estoy cursando la carrera de Ingeniería de Sistemas. Me considero una persona proactiva, que siempre quiere aprender y proponerse nuevos retos.",
+
+    "miguelName": "Sullon Burga Miguel Ángel",
+    "miguelDescription": "Soy Miguel Sullon, estudiante de Ingeniería de Sistemas. Soy responsable, me gusta la puntualidad en todos los aspectos de mi vida y domino el inglés intermedio.",
+
+    "giulianoName": "Tinoco Ganoza Giuliano Sebastián",
+    "giulianoDescription": "Soy Giuliano Tinoco, tengo 19 años, estudiante de Ingeniería de Sistemas. Soy organizado, con gran motivación por aprender, asumir retos y crecer tanto personal como académicamente.",
+
+    "ricardoName": "Vargas Arraiza Ricardo Andrés",
+    "ricardoDescription": "Soy Ricardo Vargas, tengo 19 años y estudio Ingeniería de Sistemas de Información en la UPC. Tengo conocimientos en Python y C++."
+  }
 }
