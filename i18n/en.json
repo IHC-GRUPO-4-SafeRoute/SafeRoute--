@@ -85,5 +85,21 @@
 
   "button": "Get started" 
 
+},
+"footer": {
+  "description": "Smart urban navigation platform focused on safe routes at night. Travel with confidence and reach your destination safely.",
+  "product": "Product",
+  "features": "Features",
+  "how": "How it works",
+  "testimonials": "Testimonials",
+  "company": "Company",
+  "about": "About us",
+  "demo": "Demo",
+  "support": "Support",
+  "help": "Help center",
+  "contact": "Contact",
+  "privacy": "Privacy",
+  "terms": "Terms & Conditions",
+  "copy": "2026 SafeRoute. All rights reserved."
 }
 }

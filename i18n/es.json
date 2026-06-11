@@ -84,5 +84,21 @@
 
   "button": "Comenzar ahora" 
 
-} 
+},
+"footer": {
+  "description": "Plataforma inteligente de navegación urbana centrada en rutas seguras durante la noche. Navega con mayor seguridad, llega a tu destino con tranquilidad.",
+  "product": "Producto",
+  "features": "Características",
+  "how": "Cómo funciona",
+  "testimonials": "Testimonios",
+  "company": "Compañía",
+  "about": "Sobre nosotros",
+  "demo": "Demo",
+  "support": "Apoyo",
+  "help": "Centro de ayuda",
+  "contact": "Contacto",
+  "privacy": "Privacidad",
+  "terms": "Términos y condiciones",
+  "copy": "2026 SafeRoute. Todos los derechos reservados."
+}
 }
