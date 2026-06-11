@@ -75,5 +75,30 @@
     "text": "\"Trabajar en turnos de noche implica largos desplazamientos. El modo acompañante permite que mi pareja siga mi ruta de vuelta a casa. Nos da tranquilidad a los dos.\"",
     "role": "Trabajadora empresarial"
   }
+},
+"cta": { 
+
+  "title": "Viaja con mayor seguridad durante la noche", 
+
+  "description": "Planifica rutas más seguras, recibe alertas en tiempo real y comparte tu recorrido con personas de confianza.", 
+
+  "button": "Comenzar ahora" 
+
+},
+"footer": {
+  "description": "Plataforma inteligente de navegación urbana centrada en rutas seguras durante la noche. Navega con mayor seguridad, llega a tu destino con tranquilidad.",
+  "product": "Producto",
+  "features": "Características",
+  "how": "Cómo funciona",
+  "testimonials": "Testimonios",
+  "company": "Compañía",
+  "about": "Sobre nosotros",
+  "demo": "Demo",
+  "support": "Apoyo",
+  "help": "Centro de ayuda",
+  "contact": "Contacto",
+  "privacy": "Privacidad",
+  "terms": "Términos y condiciones",
+  "copy": "2026 SafeRoute. Todos los derechos reservados."
 }
 }
