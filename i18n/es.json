@@ -75,5 +75,14 @@
     "text": "\"Trabajar en turnos de noche implica largos desplazamientos. El modo acompañante permite que mi pareja siga mi ruta de vuelta a casa. Nos da tranquilidad a los dos.\"",
     "role": "Trabajadora empresarial"
   }
-}
+},
+"cta": { 
+
+  "title": "Viaja con mayor seguridad durante la noche", 
+
+  "description": "Planifica rutas más seguras, recibe alertas en tiempo real y comparte tu recorrido con personas de confianza.", 
+
+  "button": "Comenzar ahora" 
+
+} 
 }
