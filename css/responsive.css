@@ -1033,3 +1033,30 @@ line-height:1.5;
   } 
 
 } 
+@media (max-width: 768px) {
+  .footer {
+    padding: 40px 20px;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+
+  .footer-bottom div {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+}
