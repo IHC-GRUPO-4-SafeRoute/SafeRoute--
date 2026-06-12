@@ -23,8 +23,13 @@
   align-items: center;
   justify-content: center;
   z-index: 2;
+  gap: 8px;
 }
 
+.navbar-logo span {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
 .navbar__logo img {
   width: 48px;
   height: 48px;

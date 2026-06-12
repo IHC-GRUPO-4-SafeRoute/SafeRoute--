@@ -10,7 +10,7 @@
     "heroTitle": "Tu seguridad es nuestra preocupación",
     "heroSubtitle": "Usa las nuevas funciones de SafeRoute para mejorar tus trayectos nocturnos.",
     "cardTitle": "Convierte trayectos peligrosos en rutas más seguras",
-    "cardDescripcion": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real."
+    "cardDescription": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real."
   },
   "smartFeatures": {
     "card1": "Detección de<br />ruta más segura",
@@ -21,21 +21,20 @@
     "description": "Protección con inteligencia artificial para tus viajes nocturnos."
   },
   "howItWorks": {
-  "title": "Convierte trayectos peligrosos en rutas más seguras",
-  "description": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real.",
-  "button": "Comience",
-  "companionTitle": "Modo de acompañante digital para trayectos más seguros",
-  "companionDescription": "Comparte tu recorrido en tiempo real con una persona de confianza y recibe seguimiento durante todo el trayecto.",
-  "badge1": "Comparte tu ubicación en vivo",
-  "badge2": "Métricas de entrenamiento",
-  "badge3": "Alertas automáticas",
-  "badge4": "Seguimiento activo",
-  "badge5": "Rutas iluminadas",
-  "badge6": "Alertas automáticas",
-  "badge7": "Confirmación de llegada",
-  "badge8": "Seguimiento activo"
-},
-
+    "title": "Convierte trayectos peligrosos en rutas más seguras",
+    "description": "SafeRoute analiza el riesgo, la iluminación, la densidad social y los informes verificados para sugerir rutas urbanas más seguras en tiempo real.",
+    "button": "Comenzar",
+    "companionTitle": "Modo de acompañante digital para trayectos más seguros",
+    "companionDescription": "Comparte tu recorrido en tiempo real con una persona de confianza y recibe seguimiento durante todo el trayecto.",
+    "badge1": "Comparte tu ubicación en vivo",
+    "badge2": "Métricas de entrenamiento",
+    "badge3": "Alertas automáticas",
+    "badge4": "Seguimiento activo",
+    "badge5": "Rutas iluminadas",
+    "badge6": "Alertas automáticas",
+    "badge7": "Confirmación de llegada",
+    "badge8": "Seguimiento activo"
+  },
   "aboutus": {
     "title": "Nosotros",
 
@@ -43,7 +42,7 @@
     "jenniferDescription": "Estoy cursando la carrera de Ingeniería de Software en la UPC con interés en ser una futura desarrolladora backend. Conocimientos Java, C++, Vue y también tengo conocimientos en Power BI y Excel.",
 
     "luciaName": "Lucia Alisson Zorrilla Hernández",
-    "luciaDescription": "Soy Lucia Zorrilla, tengo 20 años y estoy cursando la carrera de Ingeniería de Sistemas en la UPC. Soy una persona responsable, proactiva y con gran interés por la tecnología. Además, cuento con conocimientos en programación y manejo de lenguajes como Python y C++.",
+    "luciaDescription": "Soy Lucia Zorrilla, tengo 20 años y estoy cursando la carrera de Ingeniería de Sistemas en la UPC. Soy una persona responsable y organizada. Cuento con conocimientos en Python y C++.",
 
     "aldoName": "Flores Arrieta Aldo Fabrizio",
     "aldoDescription": "Soy Aldo Flores, tengo 19 años y estoy cursando la carrera de Ingeniería de Sistemas. Me considero una persona proactiva, que siempre quiere aprender y proponerse nuevos retos.",
@@ -58,47 +57,43 @@
     "ricardoDescription": "Soy Ricardo Vargas, tengo 19 años y estudio Ingeniería de Sistemas de Información en la UPC. Tengo conocimientos en Python y C++."
   },
   "testimonials": {
-  "title": "La confianza de los viajeros nocturnos.",
-  "subtitle": "Historias reales de nuestra comunidad",
-  "card1": {
-    "name": "Sarah M.",
-    "text": "\"Antes me daba pánico volver caminando a casa después de las clases nocturnas. SafeRoute me mostró calles bien iluminadas que ni siquiera sabía que existían. Ahora me siento mucho más segura.\"",
-    "role": "Estudiante universitaria"
+    "title": "La confianza de los viajeros nocturnos.",
+    "subtitle": "Historias reales de nuestra comunidad",
+    "card1": {
+      "name": "Sarah M.",
+      "text": "\"Antes me daba pánico volver caminando a casa después de las clases nocturnas. SafeRoute me mostró calles bien iluminadas que ni siquiera sabía que existían. Ahora me siento mucho más segura.\"",
+      "role": "Estudiante universitaria"
+    },
+    "card2": {
+      "name": "James R.",
+      "text": "\"El modo de entrenamiento lo cambia todo. Puedo planificar mis carreras nocturnas por zonas pobladas y bien iluminadas. Mi familia también se siente más tranquila.\"",
+      "role": "Corredor nocturno"
+    },
+    "card3": {
+      "name": "Maria T.",
+      "text": "\"Trabajar en turnos de noche implica largos desplazamientos. El modo acompañante permite que mi pareja siga mi ruta de vuelta a casa. Nos da tranquilidad a los dos.\"",
+      "role": "Trabajadora empresarial"
+    }
   },
-  "card2": {
-    "name": "James R.",
-    "text": "\"El modo de entrenamiento lo cambia todo. Puedo planificar mis carreras nocturnas por zonas pobladas y bien iluminadas. Mi familia también se siente más tranquila.\"",
-    "role": "Corredor nocturno"
+  "cta": {
+    "title": "Viaja con mayor seguridad durante la noche",
+    "description": "Planifica rutas más seguras, recibe alertas en tiempo real y comparte tu recorrido con personas de confianza.",
+    "button": "Comenzar ahora"
   },
-  "card3": {
-    "name": "Maria T.",
-    "text": "\"Trabajar en turnos de noche implica largos desplazamientos. El modo acompañante permite que mi pareja siga mi ruta de vuelta a casa. Nos da tranquilidad a los dos.\"",
-    "role": "Trabajadora empresarial"
+  "footer": {
+    "description": "Plataforma inteligente de navegación urbana centrada en rutas seguras durante la noche. Navega con mayor seguridad, llega a tu destino con tranquilidad.",
+    "product": "Producto",
+    "features": "Características",
+    "how": "Cómo funciona",
+    "testimonials": "Testimonios",
+    "company": "Compañía",
+    "about": "Sobre nosotros",
+    "demo": "Demo",
+    "support": "Apoyo",
+    "help": "Centro de ayuda",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "Términos y condiciones",
+    "copy": " © 2026 SafeRoute. Todos los derechos reservados."
   }
-},
-"cta": { 
-
-  "title": "Viaja con mayor seguridad durante la noche", 
-
-  "description": "Planifica rutas más seguras, recibe alertas en tiempo real y comparte tu recorrido con personas de confianza.", 
-
-  "button": "Comenzar ahora" 
-
-},
-"footer": {
-  "description": "Plataforma inteligente de navegación urbana centrada en rutas seguras durante la noche. Navega con mayor seguridad, llega a tu destino con tranquilidad.",
-  "product": "Producto",
-  "features": "Características",
-  "how": "Cómo funciona",
-  "testimonials": "Testimonios",
-  "company": "Compañía",
-  "about": "Sobre nosotros",
-  "demo": "Demo",
-  "support": "Apoyo",
-  "help": "Centro de ayuda",
-  "contact": "Contacto",
-  "privacy": "Privacidad",
-  "terms": "Términos y condiciones",
-  "copy": "2026 SafeRoute. Todos los derechos reservados."
-}
 }
