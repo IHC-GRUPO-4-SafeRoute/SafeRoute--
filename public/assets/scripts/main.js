@@ -1,0 +1,1 @@
+// Main JavaScript file reserved for future landing page interactions.
