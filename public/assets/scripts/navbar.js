@@ -28,7 +28,7 @@ const applyTranslations = (translations) => {
 
 const loadLanguage = async (language) => {
   try {
-    const response = await fetch(`i18n/${language}.json`);
+    const response = await fetch(`assets/i18n/${language}.json`);
 
     if (!response.ok) {
       throw new Error("Language file not found");
