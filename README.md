@@ -58,10 +58,10 @@ SafeRoute/
 
 * Jennifer Yamilet Riveros Vera
 * Lucia Alisson Zorrilla Hernández
-* Flores Arrieta Aldo Fabrizio
-* Sullon Burga Miguel Ángel
-* Tinoco Ganoza Giuliano Sebastián
-* Vargas Arraiza Ricardo Andrés
+* Aldo Fabrizio Flores Arrieta
+* Miguel Angel Sullón Burga
+* Giuliano Sebastian Tinoco Ganoza
+* Ricardo Andrés Vargas Arraiza 
 
 ## Estado del proyecto
 
