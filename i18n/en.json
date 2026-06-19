@@ -1,0 +1,99 @@
+{
+  "navbar": {
+    "features": "Features",
+    "howItWorks": "How it works",
+    "team": "Team",
+    "testimonials": "Testimonials",
+    "login": "Login"
+  },
+  "characteristics": {
+    "heroTitle": "Your safety is our priority",
+    "heroSubtitle": "Use SafeRoute’s new features to improve your nighttime trips.",
+    "cardTitle": "Turn dangerous trips into safer routes",
+    "cardDescription": "SafeRoute analyzes risk, lighting, social density, and verified reports to suggest safer urban routes in real time."
+  },
+  "smartFeatures": {
+    "card1": "Safest route<br />detection",
+    "card2": "Real-time<br />alerts",
+    "card3": "Safe support<br />nodes",
+    "card4": "Digital Companion<br />Mode",
+    "mainTitle": "Smart features for safe navigation",
+    "description": "Artificial intelligence protection for your night trips."
+  },
+  "howItWorks": {
+    "title": "Turn dangerous trips into safer routes",
+    "description": "SafeRoute analyzes risk, lighting, social density and verified reports to suggest safer urban routes in real time.",
+    "button": "Start",
+    "companionTitle": "Digital companion mode for safer trips",
+    "companionDescription": "Share your trip in real time with a trusted person and receive monitoring throughout the journey.",
+    "badge1": "Share your live location",
+    "badge2": "Training metrics",
+    "badge3": "Automatic alerts",
+    "badge4": "Active tracking",
+    "badge5": "Illuminated routes",
+    "badge6": "Automatic alerts",
+    "badge7": "Arrival confirmation",
+    "badge8": "Active tracking"
+  },
+  "aboutus": {
+    "title": "About Us",
+
+    "jenniferName": "Jennifer Yamilet Riveros Vera",
+    "jenniferDescription": "I am currently pursuing a degree in Software Engineering at UPC with an interest in becoming a future backend developer. I have knowledge of Java, C++, Vue and also have knowledge in Power BI and Excel.",
+
+    "luciaName": "Lucia Alisson Zorrilla Hernández",
+    "luciaDescription": "I am Lucia Zorrilla, I am 20 years old and I am currently studying Systems Engineering at UPC. I am a responsible and organized person. I have knowledge of Python and C++.",
+
+    "aldoName": "Flores Arrieta Aldo Fabrizio",
+    "aldoDescription": "I am Aldo Flores, I am 19 years old and I am currently pursuing a degree in Systems Engineering. I consider myself a proactive person who always wants to learn and set new challenges.",
+
+    "miguelName": "Sullon Burga Miguel Ángel",
+    "miguelDescription": "I am Miguel Sullon, a Systems Engineering student. I am responsible, I like punctuality in all aspects of my life and I have intermediate English proficiency.",
+
+    "giulianoName": "Tinoco Ganoza Giuliano Sebastián",
+    "giulianoDescription": "I am Giuliano Tinoco, I am 19 years old and I am a Systems Engineering student. I am organized, with great motivation to learn, take on challenges and grow both personally and academically.",
+
+    "ricardoName": "Vargas Arraiza Ricardo Andrés",
+    "ricardoDescription": "I am Ricardo Vargas, I am 19 years old and I study Information Systems Engineering at UPC. I have knowledge of Python and C++."
+  },
+  "testimonials": {
+    "title": "The trust of nighttime travelers.",
+    "subtitle": "Real stories from our community",
+    "card1": {
+      "name": "Sarah M.",
+      "text": "\"I used to panic when walking home after night classes. SafeRoute showed me well-lit streets I didn’t even know existed. Now I feel much safer.\"",
+      "role": "University student"
+    },
+    "card2": {
+      "name": "James R.",
+      "text": "\"The training mode changes everything. I can plan my night runs through populated and well-lit areas. My family also feels more at ease.\"",
+      "role": "Night runner"
+    },
+    "card3": {
+      "name": "Maria T.",
+      "text": "\"Working night shifts means long commutes. Companion mode lets my partner follow my route back home. It gives both of us peace of mind.\"",
+      "role": "Business worker"
+    }
+  },
+  "cta": {
+    "title": "Travel more safely at night",
+    "description": "Plan safer routes, receive real-time alerts, and share your journey with trusted people.",
+    "button": "Get started"
+  },
+  "footer": {
+    "description": "Smart urban navigation platform focused on safe routes at night. Travel with confidence and reach your destination safely.",
+    "product": "Product",
+    "features": "Features",
+    "how": "How it works",
+    "testimonials": "Testimonials",
+    "company": "Company",
+    "about": "About us",
+    "demo": "Demo",
+    "support": "Support",
+    "help": "Help center",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms & Conditions",
+    "copy": " © 2026 SafeRoute. All rights reserved."
+  }
+}
