@@ -1,7 +1,7 @@
 .navbar {
   width: 100%;
   background-color: #eaf7fe;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.19);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.18);
   position: fixed;
   top: 0;
   left: 0;
@@ -9,8 +9,8 @@
 }
 
 .navbar__container {
-  width: min(1680px, 92%);
-  height: 82px;
+  width: 91%;
+  height: 88px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -21,27 +21,28 @@
 .navbar__logo {
   display: flex;
   align-items: center;
-  justify-content: center;
+  gap: 10px;
+  text-decoration: none;
   z-index: 2;
-  gap: 8px;
 }
 
-.navbar-logo span {
-  font-weight: 600;
-  font-size: 1.1rem;
-}
 .navbar__logo img {
-  width: 48px;
-  height: 48px;
+  width: 46px;
+  height: 46px;
   object-fit: contain;
-  display: block;
+}
+
+.navbar__logo span {
+  color: #1686d9;
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .navbar__content {
   flex: 1;
   display: flex;
-  justify-content: flex-end;
   align-items: center;
+  justify-content: flex-end;
 }
 
 .navbar__menu {
@@ -50,45 +51,39 @@
   transform: translateX(-50%);
   display: flex;
   align-items: center;
-  gap: 48px;
+  gap: 54px;
 }
 
 .navbar__link {
   color: #000000;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 21px;
-  transition: none;
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 .navbar__link:hover {
-  color: #000000;
+  color: #1686d9;
 }
 
 .navbar__actions {
   display: flex;
   align-items: center;
-  gap: 28px;
-  z-index: 2;
+  gap: 18px;
 }
 
 .navbar__login {
-  width: 164px;
-  height: 50px;
-  border-radius: 50px;
-  background-color: #3f51b5;
+  width: 118px;
+  height: 38px;
+  border-radius: 24px;
+  background-color: #4656bb;
   color: #ffffff;
-  font-size: 20px;
-  font-weight: 800;
-  line-height: 24px;
+  font-size: 17px;
+  font-weight: 700;
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.navbar__login:hover {
-  background-color: #3f51b5;
-  color: #ffffff;
+  text-decoration: none;
 }
 
 .navbar__language {
@@ -96,48 +91,45 @@
 }
 
 .navbar__language-button {
+  display: flex;
+  align-items: center;
+  gap: 5px;
   background: transparent;
   border: none;
   cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 6px;
+  padding: 4px 2px;
 }
 
 .navbar__flag {
-  width: 28px;
-  height: 20px;
+  width: 24px;
+  height: 16px;
   object-fit: cover;
-  display: block;
 }
 
 .navbar__language-code {
-  color: #000000;
   font-size: 16px;
   font-weight: 700;
-  line-height: 1;
+  color: #000000;
 }
 
 .navbar__arrow-icon {
-  width: 9px;
-  height: 9px;
-  object-fit: contain;
-  display: block;
+  width: 10px;
+  height: 10px;
 }
 
 .navbar__language-menu {
   position: absolute;
   top: 36px;
   right: 0;
-  width: 150px;
+  min-width: 130px;
   padding: 8px;
   background-color: #ffffff;
-  border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 12px;
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.14);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.14);
   display: none;
   flex-direction: column;
-  gap: 4px;
+  gap: 6px;
+  z-index: 20;
 }
 
 .navbar__language-menu--active {
@@ -145,19 +137,17 @@
 }
 
 .navbar__language-option {
-  width: 100%;
-  padding: 8px 10px;
-  background: transparent;
-  border: none;
-  border-radius: 10px;
-  cursor: pointer;
   display: flex;
   align-items: center;
-  gap: 10px;
-  color: #000000;
+  gap: 8px;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: transparent;
+  cursor: pointer;
   font-size: 14px;
   font-weight: 500;
-  text-align: left;
+  color: #000000;
 }
 
 .navbar__language-option:hover {
@@ -165,21 +155,18 @@
 }
 
 .navbar__option-flag {
-  width: 24px;
-  height: 17px;
+  width: 22px;
+  height: 15px;
   object-fit: cover;
-  display: block;
 }
 
 .navbar__toggle {
   display: none;
-  width: 42px;
-  height: 42px;
-  background: transparent;
+  width: 36px;
+  height: 36px;
   border: none;
+  background: transparent;
   cursor: pointer;
-  align-items: center;
-  justify-content: center;
   padding: 0;
 }
 
@@ -187,5 +174,4 @@
   width: 28px;
   height: 28px;
   object-fit: contain;
-  display: block;
 }
