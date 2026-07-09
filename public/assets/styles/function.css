@@ -5,17 +5,16 @@
   margin: 110px auto 120px;
 }
 
-
 .smart-features__palm {
-    position: absolute;
-    width: 760px;
-    max-width: 58vw;
-    height: auto;
-    right: calc(-50vw + 50%);   
-    top: -50px;
-    opacity: 1;
-    z-index: 0;
-    pointer-events: none;
+  position: absolute;
+  width: 760px;
+  max-width: 58vw;
+  height: auto;
+  right: calc(-50vw + 50%);
+  top: -50px;
+  opacity: 1;
+  z-index: 0;
+  pointer-events: none;
 }
 
 .smart-features__content {
